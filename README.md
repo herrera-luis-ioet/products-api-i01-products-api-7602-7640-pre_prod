@@ -1,1 +1,3 @@
-# products-api-i01-products-api-7602-7640-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
